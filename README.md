@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Selenay!</h1>
-<h5 align="left">Abdullah Gül Üniversitesi Bilgisayar Mühendisliği 4.sınıf öğrencisiyim. Şu an TÜBİTAK BİLGEM'de aday mühendis olarak çalışıyorum. C#/.NET geliştirdiğim bu aday mühendislik sürecini full-stack developer olarak yürütmekteyim. Benim için fazlasıyla verimli geçtiğini düşündüğüm bu süreçte; C#/.NET, RESTful Servisler, .NET MAUI, Çok Katmanlı Mimari, Entity Framework Code First, Repository Architecture vb. birçok konuda bilgi edinmiş ve deneyim kazanmış oldum.</h5>
+<h5 align="left">Abdullah Gül Üniversitesi Bilgisayar Mühendisliği 4.sınıf öğrencisiyim. Şu an TÜBİTAK BİLGEM'de aday mühendis olarak çalışıyorum. C#/.NET geliştirdiğim bu aday mühendislik sürecini full-stack developer olarak yürütmekteyim. Benim için fazlasıyla verimli geçtiğini düşündüğüm bu süreçte; C#/.NET, RESTful Servisler, .NET MAUI, Çok Katmanlı Mimari, Entity Framework Code First, Repository Architecture, MSSQL ve Data Migration gibi birçok konuda bilgi edinmiş ve deneyim kazanmış oldum.</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
