@@ -1,5 +1,6 @@
 <h1 align="center">Merhaba 👋, ben Selenay!</h1>
-<h3 align="center">Bilgisayar Mühendisliği 4.sınıf öğrencisi</h3>
+<h3 align="left">Bilgisayar Mühendisliği 4.sınıf öğrencisi</h3>
+<h5 align="left">TÜBİTAK BİLGEM'de aday mühendis olarak çalışıyorum. C#/.NET geliştirdiğim bu aday mühendislik sürecini full-stack developer olarak yürütmekteyim.</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
